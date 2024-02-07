@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "keyboard.h": "c",
+        "stddef.h": "c",
+        "stdint.h": "c"
+    }
+}
