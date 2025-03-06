@@ -126,11 +126,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 
-For questions or feedback, please open an issue on GitHub or contact me directly at [5377abdulrahman@example.com].
+For questions or feedback, please open an issue on GitHub or contact me directly at [5377abdulrahman@gmail.com].
 
 ---
 
 *Happy Coding and Learning!*
 ```
-
----
