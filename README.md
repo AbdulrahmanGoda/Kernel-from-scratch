@@ -119,8 +119,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact Me
 
-If you encounter an issue, have a question, or need clarification about this repo, feel free to open an issue on this repository.
-You can also reach out to me directly via LinkedIn or Email: abdulrahmangoda@hotmail.com.
+If you encounter an issue, have a question, or need clarification about this project, feel free to open an issue on this repository.  
+You can also reach out to me directly via [LinkedIn](https://www.linkedin.com/in/abdulrahman-goda-899700233/) or Email: abdulrahmangoda@hotmail.com.
 
 ---
 
