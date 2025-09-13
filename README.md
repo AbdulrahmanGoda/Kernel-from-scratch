@@ -13,6 +13,7 @@ This project is not only educational, but also satisfies a deeper, lifelong fasc
 - [Architecture](#architecture)
 - [Usage](#usage)
 - [Build and Testing](#build-and-testing)
+- [Demo](#demo)
 - [Roadmap](#roadmap)
 - [Contact Me](#contact-me)
 
@@ -101,6 +102,9 @@ The OS should boot, displaying output via the VGA text mode driver.
 - **Automated Builds:** Consider setting up GitHub Actions or another CI tool for automated building and testing.
 - **Debugging:** Enable debug flags in the Makefile and use GDB with QEMU for step-by-step debugging where necessary.
 
+## Demo
+
+https://drive.google.com/drive/folders/1rt9n40fLjpFTAW9mnXefthCm9n4aec7_?usp=drive_link
 
 ## Roadmap
 
