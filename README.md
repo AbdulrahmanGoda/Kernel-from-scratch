@@ -11,7 +11,6 @@ This project is not only educational, but also satisfies a deeper, lifelong fasc
 - [Overview](#overview)
 - [Features](#features)
 - [Architecture](#architecture)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Build and Testing](#build-and-testing)
 - [Roadmap](#roadmap)
@@ -20,6 +19,7 @@ This project is not only educational, but also satisfies a deeper, lifelong fasc
 ## Overview
 
 Kernel-from-scratch was created to:
+
 - **Learn Computer Architecture:** Gain hands-on experience with how operating systems interact with hardware.
 - **Practice Low-Level Programming:** Develop skills in C programming and Assembly by implementing essential OS components.
 - **Explore OS Internals:** Delve into bootloading, memory management, and driver development as part of an experimental kernel project.
@@ -58,7 +58,6 @@ The repository is organized as follows:
 - **Drivers and Libraries:** Implements essential drivers (e.g., VGA) and utility functions to support core functionality.
 - **Build System:** The Makefile automates compilation and linking, ensuring reproducible builds. The linker script defines memory sections and layout.
 
-## Installation
 
 ### Prerequisites
 
