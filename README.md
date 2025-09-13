@@ -10,7 +10,6 @@ Kernel-from-scratch is an experimental operating system kernel developed as a pe
 - [Installation](#installation)
 - [Usage](#usage)
 - [Build and Testing](#build-and-testing)
-- [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [License](#license)
 - [Contact](#contact)
@@ -100,16 +99,6 @@ The OS should boot, displaying output via the VGA text mode driver.
 - **Automated Builds:** Consider setting up GitHub Actions or another CI tool for automated building and testing.
 - **Debugging:** Enable debug flags in the Makefile and use GDB with QEMU for step-by-step debugging where necessary.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix (e.g., `git checkout -b feature-improvement`).
-3. Commit your changes with clear, descriptive messages.
-4. Open a pull request describing your changes.
-
-For detailed guidelines, see our [CONTRIBUTING.md](CONTRIBUTING.md) (to be added).
 
 ## Roadmap
 
