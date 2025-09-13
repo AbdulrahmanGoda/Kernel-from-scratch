@@ -124,9 +124,10 @@ Future enhancements include:
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the license terms.
 
-## Contact
+## Contact Me
 
-For questions or feedback, please open an issue on GitHub or contact me directly at [5377abdulrahman@gmail.com].
+If you encounter an issue, have a question, or need clarification about this repo, feel free to open an issue on this repository.
+You can also reach out to me directly via LinkedIn or Email: abdulrahmangoda@hotmail.com.
 
 ---
 
