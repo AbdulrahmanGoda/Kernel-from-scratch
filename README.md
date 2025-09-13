@@ -112,10 +112,7 @@ Future enhancements include:
 - **File System Integration:** Exploring rudimentary file system support.
 - **Additional Drivers:** Expanding hardware support through new driver implementations.
 - **Enhanced Documentation:** Further improving documentation and code comments for clarity.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the license terms.
+ 
 
 ## Contact Me
 
