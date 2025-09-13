@@ -1,6 +1,10 @@
 # Kernel-from-scratch
 
-Kernel-from-scratch is an experimental operating system kernel developed as a personal learning project. Its primary goal is to deepen understanding of computer architecture and low-level programming by building an OS kernel from the ground up. This project is written mainly in C, with critical components in Assembly, and covers everything from bootloading to basic driver development.
+I believe in learning by doing, so to sharpen my C programming skills and deepen my understanding of low-level operations, I started this simple kernel-from-scratch project.
+
+This repository documents my hands-on journey into operating system development, beginning from the basics and incrementally building up fundamental kernel features. It’s a practical exploration of topics such as bootloaders, memory management, hardware interaction, and more—all implemented in C (and some Assembly).
+
+This project is not only educational, but also satisfies a deeper, lifelong fascination with computers that has captivated me since childhood.
 
 ## Table of Contents
 
