@@ -15,8 +15,7 @@ This project is not only educational, but also satisfies a deeper, lifelong fasc
 - [Usage](#usage)
 - [Build and Testing](#build-and-testing)
 - [Roadmap](#roadmap)
-- [License](#license)
-- [Contact](#contact)
+- [Contact Me](#contact-me)
 
 ## Overview
 
