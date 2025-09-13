@@ -1,10 +1,6 @@
 # Kernel-from-scratch
 
-I believe in learning by doing, so to sharpen my C programming skills and deepen my understanding of low-level operations, I started this simple kernel-from-scratch project.
 
-This repository documents my hands-on journey into operating system development, beginning from the basics and incrementally building up fundamental kernel features. It’s a practical exploration of topics such as bootloaders, memory management, hardware interaction, and more—all implemented in C (and some Assembly).
-
-This project is not only educational, but also satisfies a deeper, lifelong fascination with computers that has captivated me since childhood.
 
 ## Table of Contents
 
@@ -18,6 +14,12 @@ This project is not only educational, but also satisfies a deeper, lifelong fasc
 - [Contact Me](#contact-me)
 
 ## Overview
+
+I believe in learning by doing, so to sharpen my C programming skills and deepen my understanding of low-level operations, I started this simple kernel-from-scratch project.
+
+This repository documents my hands-on journey into operating system development, beginning from the basics and incrementally building up fundamental kernel features. It’s a practical exploration of topics such as bootloaders, memory management, hardware interaction, and more—all implemented in C (and some Assembly).
+
+This project is not only educational, but also satisfies a deeper, lifelong fascination with computers that has captivated me since childhood.
 
 Kernel-from-scratch was created to:
 
